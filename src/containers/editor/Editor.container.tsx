@@ -19,7 +19,7 @@ export const EditorContainer: FC = () => {
                 onReady: () => {
                     console.log('Editor.js is ready to work!')
                 },
-                onChange: (api, event) => {
+                onChange: (_, event) => {
                     console.log('Now I know that Editor\'s content changed!', event)
                 },
             });
