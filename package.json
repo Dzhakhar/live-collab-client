@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@aws-amplify/ui-react": "^6.5.5",
     "@editorjs/checklist": "^1.6.0",
     "@editorjs/code": "^2.9.2",
     "@editorjs/delimiter": "^1.4.2",

@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-livecollabclient-dev-bdf74-authRole",
+      "UnauthRoleArn": "arn:aws:iam::405894843449:role/amplify-livecollabclient-dev-bdf74-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::405894843449:role/amplify-livecollabclient-dev-bdf74-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-livecollabclient-dev-bdf74-deployment",
+      "UnauthRoleName": "amplify-livecollabclient-dev-bdf74-unauthRole",
+      "StackName": "amplify-livecollabclient-dev-bdf74",
+      "StackId": "arn:aws:cloudformation:us-east-1:405894843449:stack/amplify-livecollabclient-dev-bdf74/437b5530-9206-11ef-88be-122c77988875",
+      "AmplifyAppId": "d194vh9cwlgpx6"
+    },
+    "categories": {
+      "auth": {
+        "livecollabclient3417c3b4": {}
+      }
+    }
+  }
+}
