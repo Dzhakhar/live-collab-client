@@ -2,8 +2,7 @@ import {FC} from 'react'
 import { Authenticator } from '@aws-amplify/ui-react'
 import { Amplify } from 'aws-amplify'
 import '@aws-amplify/ui-react/styles.css'
-// @ts-ignore
-import awsExports from '../../aws-exports.js'
+import awsExports from '../../aws-exports.ts'
 
 Amplify.configure(awsExports);
 
